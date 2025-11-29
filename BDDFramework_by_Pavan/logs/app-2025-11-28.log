@@ -1,0 +1,12 @@
+[INFO ] 2025-11-28 23:05:42.966 [main] StepDefinitions - ************ Launching chorme browser ****************
+[INFO ] 2025-11-28 23:05:45.209 [main] StepDefinitions - ********** Launching the application **************
+[INFO ] 2025-11-28 23:06:01.629 [main] StepDefinitions - ************* Entering username ***************
+[INFO ] 2025-11-28 23:06:01.831 [main] StepDefinitions - ************ entering password *****************
+[INFO ] 2025-11-28 23:06:01.942 [main] StepDefinitions - ************** Clicking on Login button ****************
+[INFO ] 2025-11-28 23:06:16.823 [main] StepDefinitions - *************** Clicking on Logout button **************
+[INFO ] 2025-11-28 23:06:36.939 [main] StepDefinitions - ************ Launching chorme browser ****************
+[INFO ] 2025-11-28 23:06:38.104 [main] StepDefinitions - ********** Launching the application **************
+[INFO ] 2025-11-28 23:06:39.618 [main] StepDefinitions - ************* Entering username ***************
+[INFO ] 2025-11-28 23:06:39.798 [main] StepDefinitions - ************ entering password *****************
+[INFO ] 2025-11-28 23:06:39.909 [main] StepDefinitions - ************** Clicking on Login button ****************
+[INFO ] 2025-11-28 23:06:42.996 [main] StepDefinitions - *************** Clicking on Logout button **************

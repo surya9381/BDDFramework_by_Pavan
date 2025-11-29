@@ -1,0 +1,12 @@
+[INFO ] 2025-11-29 12:13:25.035 [main] StepDefinitions - ******************** Launching the browser ***********************
+[INFO ] 2025-11-29 12:13:25.067 [main] StepDefinitions - ********** Launching the application **************
+[INFO ] 2025-11-29 12:13:26.644 [main] StepDefinitions - ************* Entering username ***************
+[INFO ] 2025-11-29 12:13:27.052 [main] StepDefinitions - ************ entering password *****************
+[INFO ] 2025-11-29 12:13:27.219 [main] StepDefinitions - ************** Clicking on Login button ****************
+[INFO ] 2025-11-29 12:13:33.209 [main] StepDefinitions - *************** Clicking on Logout button **************
+[INFO ] 2025-11-29 12:13:55.080 [main] StepDefinitions - ******************** Launching the browser ***********************
+[INFO ] 2025-11-29 12:13:55.086 [main] StepDefinitions - ********** Launching the application **************
+[INFO ] 2025-11-29 12:14:08.281 [main] StepDefinitions - ************* Entering username ***************
+[INFO ] 2025-11-29 12:14:08.596 [main] StepDefinitions - ************ entering password *****************
+[INFO ] 2025-11-29 12:14:08.844 [main] StepDefinitions - ************** Clicking on Login button ****************
+[INFO ] 2025-11-29 12:14:12.349 [main] StepDefinitions - *************** Clicking on Logout button **************
